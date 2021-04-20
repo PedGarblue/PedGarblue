@@ -1,0 +1,5 @@
+- 👀 I’m interested in Vue, React, Node and Blockchain tecnologies like smart contracts with Solidity.
+- 🌱 I’m currently learning Nuxt and Advanced VueJS features.
+- 📫 How to reach me:
+  - My [website](https://garciapedro.herokuapp.com)
+  - Or check my [LinkedIn](https://www.linkedin.com/in/pedro-garcia-acosta/)
